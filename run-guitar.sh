@@ -4,6 +4,6 @@ export VISION_ENDPOINT=https://guitar-finger-cord-computervision.cognitiveservic
 export logfile="guitar-cord-output-$(date +"%Y_%m_%d_%I_%M_%p").txt"
 python azure-ai-image-check.py >results/$logfile
 git add results/$logfile
-git commit -am "added test results to git $logfile"
+git commit -am 'added test results to git $logfile results'
 
-cat output/$logfile
+cat results/$logfile
