@@ -44,6 +44,10 @@ I chose the compact for General (compact) [S1]
 
 using the azure microsoft customvision.ai website the quick model training, takes up to about 1 hour, i used 18 photos for a single tag. 
 
+### Testing the trained model
+
+<https://www.learningtoplaytheguitar.net/wp-content/uploads/2013/07/d_chord.jpg>
+
 
 
 
