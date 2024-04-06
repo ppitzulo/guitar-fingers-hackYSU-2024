@@ -17,6 +17,22 @@ pip install --upgrade azure-cognitiveservices-vision-computervision
 ```
 
 
+# Using Azure pay as you ai training custom vision or opencv yolo
+
+<https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/image-classification-train-model>
+
+Azure and another website outside of Azure called:  <https://www.customvision.ai/projects>  **this is where you do our custom dataset training
+
+### Classification Types
+I chose single object per picture, maybe i should have done multi? 
+Multiclass (Single tag per image)
+after writing this i switched it back to the recommend value of: Multilabel (Multiple tags per image)
+
+### Domains: 
+I chose the compact for General (compact) [S1]
+
+
+
 # How does copilot recommend computer vision for finger position 
 
 While Azure AI Vision doesn’t directly provide a specific feature for detecting finger positions on a guitar, you can leverage its capabilities to build a custom solution. Here’s how you might approach it:
