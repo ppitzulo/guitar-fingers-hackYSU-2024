@@ -30,6 +30,8 @@ These variables are shared by several examples
 # Detect domain-specific content, Detect image types, Detect objects
 images_folder = os.path.join (os.path.dirname(os.path.abspath(__file__)), "images")
 remote_image_url = "https://github.com/kmacpher67/guitar-fingers/blob/9820195b4abb5dc9fc2e402ffcd0886aa28626b1/images/finger-cord-d-4.jpg?raw=true"
+print("remote image url = " + str(remote_image_url))
+
 '''
 END - Quickstart variables
 '''

@@ -1,0 +1,16 @@
+remote image url = https://github.com/kmacpher67/guitar-fingers/blob/9820195b4abb5dc9fc2e402ffcd0886aa28626b1/images/finger-cord-d-4.jpg?raw=true
+===== Tag an image - remote =====
+Tags in the remote image: 
+'musical instrument' with confidence 99.77%
+'music' with confidence 99.73%
+'string instrument' with confidence 98.65%
+'guitar' with confidence 97.45%
+'plucked string instruments' with confidence 97.15%
+'person' with confidence 92.60%
+'guitar string' with confidence 90.26%
+'folk instrument' with confidence 89.65%
+'holding' with confidence 84.72%
+'hand' with confidence 84.52%
+'indoor' with confidence 52.70%
+
+End of Computer Vision quickstart.
