@@ -17,6 +17,15 @@ pip install --upgrade azure-cognitiveservices-vision-computervision
 ```
 
 
+# training a custom dataset of fingers on frets for classification
+
+images folder/directory
+
+* I think we should have a sub folder called training 
+* I think there should be sub-sub folder for each Chord we need to train for. ie folder name `/D-Sharp-Chord/`
+
+Tagging and training classifier tags like `Guitar D Chord` would match the directory. 
+
 # Using Azure pay as you ai training custom vision or opencv yolo
 
 <https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/image-classification-train-model>
@@ -30,6 +39,11 @@ after writing this i switched it back to the recommend value of: Multilabel (Mul
 
 ### Domains: 
 I chose the compact for General (compact) [S1]
+
+### Training 
+
+using the azure microsoft customvision.ai website the quick model training, takes up to about 1 hour, i used 18 photos for a single tag. 
+
 
 
 
